@@ -1,0 +1,11 @@
+jeM'apelleX=100
+jeM'apelleX'=100
+unNomMitEnVariable
+1NombreD'iteration
+UnSurDeux "CommentVousAppeleez-vous"
+Sinon "ouSontLesToilettes"
+UnSurTrois "JeNeparlePasBinaire
+dansLesDeuxPremiers " est-ceQueLeMicroFonctionne?"
+puis + duResteDeLaBoucle
+
+for ( )
